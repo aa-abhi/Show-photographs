@@ -1,5 +1,5 @@
 # Show-photographs
-load and show the image in python
+load and show the image in Python
 
 #Load and show the image and also resized the photographs in python language.
 
